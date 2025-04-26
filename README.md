@@ -24,8 +24,11 @@
 
 **Key Insights**
  > Manhattan and Brooklyn dominate the Airbnb market in terms of bookings.
+
  > Hotel Rooms in Manhattan have the highest average review score per month.
+
  > Booking volume peaks during summer months (June-July).
+
  > New Dorp (Staten Island) shows the highest average price among neighborhoods.
 
 **Tools Used**
