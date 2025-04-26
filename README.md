@@ -5,13 +5,21 @@
 
 **Project Overview**
  > This Tableau dashboard provides a comprehensive analysis of Airbnb data, focusing on:
+
  > Total Bookings by Neighborhood Group and Room Type
+ 
  > Average Price across Neighborhood Groups
+
  > Top Hosts by Total Reviews
+
  > Average Reviews per Month by Room Type and Neighborhood
+
  > Booking Trends over the Years
+
  > Monthly Booking Trends for Entire Home/Apt
+
  > Neighborhood Price Comparison
+
  > Heat Map of Airbnb Listings in New York
 
 **Key Insights**
